@@ -85,3 +85,4 @@ A: All original files are safely stored in a dedicated `/backups/` folder within
 <div align="center">
   <p>Built for the community. Manage the game.</p>
 </div>
+ 
